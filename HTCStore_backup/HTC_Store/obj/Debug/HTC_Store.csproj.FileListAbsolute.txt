@@ -1,0 +1,157 @@
+D:\Visual Studio\HTC Store\HTC_Store\bin\Debug\HTC_Store.exe.config
+D:\Visual Studio\HTC Store\HTC_Store\bin\Debug\HTC_Store.exe
+D:\Visual Studio\HTC Store\HTC_Store\bin\Debug\HTC_Store.pdb
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.csproj.AssemblyReference.cache
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.Properties.Resources.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.csproj.GenerateResource.cache
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.csproj.CoreCompileInputs.cache
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.exe
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.pdb
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.Loading.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.DangNhap.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.HeThong.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.SanPham.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.NhanVien.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.KhachHang.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.BanHang.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.NhapHang.resources
+D:\Visual Studio\HTC Store\HTC_Store\obj\Debug\HTC_Store.ThongKe.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\bin\Debug\HTC_Store.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\bin\Debug\HTC_Store.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\bin\Debug\HTC_Store.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.BanHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.DangNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.HeThong.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.KhachHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.Loading.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.NhanVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.NhapHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.SanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.ThongKe.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTC Store\HTC_Store\obj\Debug\HTC_Store.csproj.CopyComplete
+D:\Downloads\HTCStore_Hung\HTC_Store\bin\Debug\HTC_Store.exe.config
+D:\Downloads\HTCStore_Hung\HTC_Store\bin\Debug\HTC_Store.exe
+D:\Downloads\HTCStore_Hung\HTC_Store\bin\Debug\HTC_Store.pdb
+D:\Downloads\HTCStore_Hung\HTC_Store\bin\Debug\Guna.UI2.dll
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.BanHang.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.DangNhap.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.HeThong.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.KhachHang.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.Loading.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.NhanVien.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.NhapHang.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.Properties.Resources.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.SanPham.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.ThongKe.resources
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.csproj.GenerateResource.cache
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.csproj.CoreCompileInputs.cache
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.csproj.CopyComplete
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.exe
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.pdb
+D:\Downloads\HTCStore_Hung\HTC_Store\obj\Debug\HTC_Store.csproj.AssemblyReference.cache
+D:\Downloads\HTCStore_Hung\HTC_Store\bin\Debug\Guna.UI.dll
+D:\Visual Studio\HTCStore_backup\HTC_Store\bin\Debug\HTC_Store.exe.config
+D:\Visual Studio\HTCStore_backup\HTC_Store\bin\Debug\HTC_Store.exe
+D:\Visual Studio\HTCStore_backup\HTC_Store\bin\Debug\HTC_Store.pdb
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.AssemblyReference.cache
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.BanHang.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.DangNhap.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.HeThong.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.KhachHang.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.Loading.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.NhanVien.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.NhapHang.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.Properties.Resources.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.SanPham.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.ThongKe.resources
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.GenerateResource.cache
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.CoreCompileInputs.cache
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.CopyComplete
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.exe
+D:\Visual Studio\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\HTC_Store.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\HTC_Store.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\HTC_Store.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Guna.UI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.BanHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.DangNhap.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.HeThong.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.KhachHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.Loading.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.NhanVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.NhapHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.SanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.ThongKe.resources
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.exe
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\obj\Debug\HTC_Store.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\stdole.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\ĐA.Net\HTCStore_backup\HTC_Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
